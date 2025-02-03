@@ -13,7 +13,7 @@ const placar = {
         cCtx.fount = '20px Fantasy';
         cCtx.textAlign = 'center'
         cCtx.textBaseline = 'middle'
-        cCtx.fillText(this.nomeJogo,400,30)
+        cCtx.fillText(this.nomeJogo,400,35)
         cCtx.font='14px Fantasy';
         cCtx.textAlign='right'
         cCtx.textBaseline='bottom'
